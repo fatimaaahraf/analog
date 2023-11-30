@@ -9,6 +9,7 @@ body{
 }
 body{
     letter-spacing: 0.15em;
+    margin: 150px;
     border: 4px double black;
 }
 p{
@@ -21,4 +22,7 @@ ul{
     border-bottom: 2px solid black;
     text-align: center;
     word-spacing: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+
 }
