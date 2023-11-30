@@ -1,0 +1,24 @@
+.navigation{
+    color: rgb(183, 40, 40);
+}
+body{
+    font-size: 80%;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Courier New", Courier , monospace
+}
+body{
+    letter-spacing: 0.15em;
+    border: 4px double black;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+ul{
+    padding: 15px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    word-spacing: 40px;
+}
